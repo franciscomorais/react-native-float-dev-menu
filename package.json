@@ -1,0 +1,33 @@
+{
+  "name": "react-native-float-dev-menu",
+  "title": "React Native Float Dev Menu",
+  "version": "1.0.0",
+  "description": "Tool to show a float dev menu button to open react native dev menu.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-float-dev-menu.git",
+    "baseUrl": "https://github.com/github_account/react-native-float-dev-menu"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Francisco Morais",
+    "email": "francisco.luis.morais@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-native": ">=0.60.0-rc.0 <1.0.x",
+    "react-native-dev-menu-android": "franciscomorais/react-native-android-dev-menu",
+    "react-native-draggable": "^3.0.0"
+  }
+}
