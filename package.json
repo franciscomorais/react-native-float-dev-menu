@@ -1,7 +1,7 @@
 {
   "name": "react-native-float-dev-menu",
   "title": "React Native Float Dev Menu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tool to show a float dev menu button to open react native dev menu.",
   "main": "index.js",
   "scripts": {},
