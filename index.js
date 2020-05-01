@@ -52,7 +52,7 @@ const FloatDevMenu = props => {
     return props.children;
   }
 
-  const { children, name, startX, startY } = props;
+  const { children, label, startX, startY } = props;
 
   return (
     <>
@@ -65,7 +65,7 @@ const FloatDevMenu = props => {
         <TouchableWithoutFeedback onPress={handleDebugMenu}>
           <View style={styles.button}>
             <Text style={styles.label}>
-              {name}
+              {label}
             </Text>
           </View>
         </TouchableWithoutFeedback>
@@ -79,7 +79,7 @@ const FloatDevMenu = props => {
  */
 
 FloatDevMenu.defaultProps = {
-  name: 'DEV',
+  label: 'DEV',
   startX: 50,
   startY: 50
 };
