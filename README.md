@@ -4,11 +4,12 @@ A tool to show a float button to open dev menu. This button only appears in deve
 
 
 **Android**
-<img src="https://raw.githubusercontent.com/franciscomorais/react-native-float-dev-menu/master/assets/android.gif" width="320px">
+
+<img src="https://raw.githubusercontent.com/franciscomorais/react-native-float-dev-menu/master/assets/android.gif" width="200px">
 
 **iOS**
 
-<img src="https://raw.githubusercontent.com/franciscomorais/react-native-float-dev-menu/master/assets/ios.gif" width="320px">
+<img src="https://raw.githubusercontent.com/franciscomorais/react-native-float-dev-menu/master/assets/ios.gif" width="200px">
 
 
 ## Getting started
