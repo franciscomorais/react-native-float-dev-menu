@@ -7,8 +7,8 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-float-dev-menu.git",
-    "baseUrl": "https://github.com/github_account/react-native-float-dev-menu"
+    "url": "git+https://github.com/franciscomorais/react-native-float-dev-menu.git",
+    "baseUrl": "https://github.com/franciscomorais/react-native-float-dev-menu"
   },
   "keywords": [
     "react-native"
@@ -22,10 +22,10 @@
   "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^16.9.0",
-    "react-native": ">=0.60.0-rc.0 <1.0.x"
+    "react-native": ">=0.60.0-rc.0 <1.0.x",
+    "react-native-dev-menu-android": "1.0.3"
   },
   "dependencies": {
-    "react-native-draggable": "^3.0.0",
-    "react-native-dev-menu-android": "1.0.2"
+    "react-native-draggable": "^3.0.0"
   }
 }

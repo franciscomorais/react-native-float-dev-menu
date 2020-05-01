@@ -1,14 +1,23 @@
 # react-native-float-dev-menu
 
-A tool to show a float menu to open dev menu. This option only appears in development mode.
+A tool to show a float button to open dev menu. This button only appears in development mode.
+
+
+**Android**
+<img src="https://raw.githubusercontent.com/franciscomorais/react-native-float-dev-menu/master/assets/android.gif" width="320px">
+
+**iOS**
+
+<img src="https://raw.githubusercontent.com/franciscomorais/react-native-float-dev-menu/master/assets/ios.gif" width="320px">
+
 
 ## Getting started
 
-`$ npm install react-native-float-dev-menu --save`
+`npm install react-native-float-dev-menu react-native-dev-menu-android --save`
 
-### Mostly automatic installation
+or
 
-`$ react-native link react-native-float-dev-menu`
+`yarn add react-native-float-dev-menu react-native-dev-menu-android`
 
 ## Usage
 ```javascript
@@ -20,3 +29,19 @@ const Root = () => (
   </FloatDevMenu>
 );
 ```
+
+#### Available Props
+
+| Name    |  Type  | Defaut value | Description    |
+| ------- | ------ | ------------ | -------------- |
+|  label  | string | `"DEV"`      | Button label   |
+|  startX | number | `50`         | Button label   |
+|  startY | number | `50`         | Button label   |
+
+
+## Contributing
+
+Please feel free to submit any issues or pull requests.
+
+## License
+MIT
