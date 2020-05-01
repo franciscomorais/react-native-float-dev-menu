@@ -22,10 +22,10 @@
   "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^16.9.0",
-    "react-native": ">=0.60.0-rc.0 <1.0.x",
-    "react-native-dev-menu-android": "1.0.1"
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
   },
   "dependencies": {
-    "react-native-draggable": "^3.0.0"
+    "react-native-draggable": "^3.0.0",
+    "react-native-dev-menu-android": "1.0.1"
   }
 }
