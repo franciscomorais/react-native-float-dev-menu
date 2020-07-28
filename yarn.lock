@@ -33,14 +33,9 @@ react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.0.tgz#0f37c3613c34fe6b37cd7f763a0d6293ab15c527"
   integrity sha512-GFMtL0vHkiBv9HluwNZTggSn/sCyEt9n02aM0dSAjGGyqyNlAyftYm4phPxdvCigG15JreC5biwxCgTAJZ7yAA==
 
-react-native-dev-menu-android@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-dev-menu-android/-/react-native-dev-menu-android-1.0.1.tgz#fdcf2fd6b08fbcfbe1f74271ffed8ae57dc1b111"
-  integrity sha512-YrwojxeicUTAY46phS+qopl2lCs8FZYcY9n6WQQvy+66BUPyZdXjRSnTpIFxRJUlMjo/QuBhdHKKyNX8P5SWjA==
-
-react-native-draggable@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-draggable/-/react-native-draggable-3.0.0.tgz#bc57a8b662fb1140796e69b46d11e581a8c74a42"
-  integrity sha512-C64HST8yivIGARiVXyW5jkqRWGkdLkFrbQIR8pXuJ17J67ygMYe+LI66SVQBRT5ABfBvCxp1LTLfxJZSvneIWg==
+react-native-draggable@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-draggable/-/react-native-draggable-3.3.0.tgz#6f07c3ad4cff018bf0455fc48dbfe5f0af9b72cd"
+  integrity sha512-aU20CaKBmzXrwE9eTJZ+GDOr52mXLchg5Vydbx5rz8nYXlN+ppHIoTPgyXduyWNwpZ/DR6tyFtMwdgUHpuN6oA==
   dependencies:
     prop-types "^15.7.2"
